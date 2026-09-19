@@ -19,7 +19,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔎 Dataset Bias & Representation Audit Platform (Final Year Project)
+### 🔎 Dataset Bias & Representation Audit Platform (mini Project)
 A web app that audits datasets/resumes for bias and representation issues.
 - Flask backend + SQLite, HTML/CSS/JS frontend with Chart.js dashboards
 - Google OAuth login, PDF resume analysis using pdfplumber, gendered word bias detection
