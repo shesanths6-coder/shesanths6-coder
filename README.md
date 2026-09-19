@@ -10,7 +10,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔎 Dataset Bias & Representation Audit Platform (Final Year Project)
+### 🔎 Dataset Bias & Representation Audit Platform (mini Project)
 A web app that audits datasets/resumes for bias and representation issues.
 - Flask backend + SQLite, HTML/CSS/JS frontend with Chart.js dashboards
 - Google OAuth login, PDF resume analysis using pdfplumber, gendered word bias detection
@@ -20,10 +20,6 @@ A web app that audits datasets/resumes for bias and representation issues.
 Personal expense tracker deployed live.
 - Firebase Auth, Chart.js, Tesseract.js OCR (receipt scanning), Web Speech API, Geolocation
 - 🔗 Live: https://shesanths6-coder.github.io/SmartSpend-ai
-
-### 📸 Nataraj Photography
-A photography studio booking website.
-- Firebase Auth + Firestore, 6-page site with an admin booking dashboard
 
 ### 🤟 Sign Language Recognition & Voice Conversion
 Browser-based AI system to recognize sign language and convert it to speech.
