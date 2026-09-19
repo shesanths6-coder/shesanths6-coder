@@ -6,6 +6,15 @@
   💻 I like building full-stack web apps with Firebase, and exploring AI/ML through hands-on projects
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shesanth-s-495593388" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/shechu32" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -20,10 +29,6 @@ A web app that audits datasets/resumes for bias and representation issues.
 Personal expense tracker deployed live.
 - Firebase Auth, Chart.js, Tesseract.js OCR (receipt scanning), Web Speech API, Geolocation
 - 🔗 Live: https://shesanths6-coder.github.io/SmartSpend-ai
-
-### 📸 Nataraj Photography
-A photography studio booking website.
-- Firebase Auth + Firestore, 6-page site with an admin booking dashboard
 
 ### 🤟 Sign Language Recognition & Voice Conversion
 Browser-based AI system to recognize sign language and convert it to speech.
