@@ -6,6 +6,15 @@
   💻 I like building full-stack web apps with Firebase, and exploring AI/ML through hands-on projects
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shesanth-s-495593388" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/shechu32" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
